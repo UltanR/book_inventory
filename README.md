@@ -1,4 +1,4 @@
-# finalCapstone
+
 Library Database
 
 Program for keeping track of library inventory using SQLite
